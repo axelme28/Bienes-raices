@@ -67,6 +67,10 @@ img{
     display: block!important;
 }
 
+.contenido-centrado {
+    max-width: 80rem;
+}
+
 /**Botenes**/
 
 .boton{
@@ -249,6 +253,7 @@ img{
     text-decoration: none;
     color: black;
 }
+
 .texto-entrada h4{
     margin: 0;
     line-height: 1.4;
